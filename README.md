@@ -9,6 +9,7 @@
 
 This branch contains a Google Colab notebook to train a machine-learning pipeline for malware classification. 
 The model classifies malware samples into binary (malicious/benign), 4-class, and 16-class categories based on memory dump features.
+The model has been built using [this article](https://www.sciencedirect.com/science/article/pii/S2667305323001084)
 
 ## 🚀 Features
 
