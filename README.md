@@ -140,11 +140,11 @@ Our core ML model uses a stacking ensemble approach:
 For more details on the ML pipeline, refer to `dev/nur/ML_training/README.md`.
 
 ## 🤝 Team
-Xiang Li
-Mafty Huang
-Ryan Lo
-Allen Huang
-Nur Sarikaya
+- Xiang Li
+- Mafty Huang
+- Ryan Lo
+- Allen Huang
+- Nur Sarikaya
 
 ## 📞 Contact
 [Nur Sarikaya](mailto:104520751@student.swin.edu.au)
