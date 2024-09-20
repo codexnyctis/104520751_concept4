@@ -35,7 +35,7 @@ Access dataset [here](https://github.com/codexnyctis/104520751_concept4/blob/dev
 2. Ensure the dataset is accessible (you may need to upload it to your Google Drive or adjust the notebook to load it from GitHub).
 3. Run the cells in the notebook sequentially to preprocess the data, train the models, and view the results.
 
-## 📁 Project Structure
+## 📁 File Structure
 
 ```
 dev/nur/ML_training/
