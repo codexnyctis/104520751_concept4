@@ -5,29 +5,30 @@
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.x-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Overview
 
-This project implements a robust machine learning pipeline for malware classification using a stacking ensemble approach. It classifies malware samples into binary (malicious/benign), 4-class, and 16-class categories based on memory dump features.
+This project uses a stacking ensemble approach to implement a machine-learning pipeline for malware classification. 
+It classifies malware samples into binary (malicious/benign), 4-class, and 16-class categories based on memory dump features.
 
 ## 🚀 Features
 
-- Advanced data preprocessing and feature selection
+- Data preprocessing and feature selection
 - Stacking ensemble with Random Forest, XGBoost, and Extra Trees as base models
 - Neural network meta-learner for improved classification
 - Support for binary, 4-class, and 16-class classification
 - Cross-validation and multiple experiment runs for robust results
-- Model saving and loading functionality
+- Model saving functionality
 
 ## 📊 Dataset
 
-The model is trained on the Obfuscated-MalMem2022 dataset. This dataset should be in CSV format with the following structure:
-- Multiple feature columns
-- 'Category': Malware category
+The model is trained on the [Obfuscated-MalMem2022](https://www.unb.ca/cic/datasets/malmem-2022.html) dataset. 
+This dataset is in CSV format with the following structure:
+- 55 feature columns 
+- 'Category': File name containing malware family name and subcategory
 - 'Class': Binary class (Benign/Malicious)
 
-Ensure the 'Obfuscated-MalMem2022.csv' file is in the project root or provide the full path when loading the data.
+Access dataset [here]
 
 ## 🛠️ Installation
 
