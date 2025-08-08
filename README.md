@@ -10,12 +10,6 @@
 Peace of Mind is a malware detection system that combines machine-learning techniques with a user-friendly web interface. 
 Our goal is to help detect various types of malware, including trojans, spyware, and ransomware while raising the user's awareness.
 
-## 🎨 Visual Preview
-
-Check out our user interface design on Figma:
-[Peace of Mind UI Design](https://www.figma.com/design/RBPSCaUT0Ypx9OuqdGu8kq/detection-system?node-id=0-1&t=kiWQCunuuD8sQN6W-1)
-
-This link provides a visual representation of our user and admin interfaces.
 
 ## 🚀 Features
 
